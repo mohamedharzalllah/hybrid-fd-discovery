@@ -1,0 +1,35 @@
+Project Division - CODE ONLY (5 people)
+Person 1: Task Set 1 - Code
+
+Write scripts to parse FD files
+Calculate statistics (# FDs, avg LHS size, attribute frequency)
+Identify ID-based and suspicious FDs programmatically
+Generate summary tables/visualizations
+
+Person 2: Task Set 2 - Code
+
+Write script to select FDs (3 plausible, 3 suspicious)
+Implement LLM API calls for semantic evaluation
+Build comparison logic (LLM vs human judgment)
+Create disagreement detection system
+
+Person 3: Task Set 3 - Code
+
+Implement sampling functions (random + stratified)
+Write LLM query script for FD suggestions from samples
+Build FD validation checker (sample vs full dataset)
+Create false positive detector
+
+Person 4: Task Set 4 Part 1 - Code
+
+Install and configure Metanome + Java 1.8
+Write scripts to run TANE/FastFD on datasets
+Extract and parse FD results from Metanome
+Prepare FD lists for pipeline input
+
+Person 5: Task Set 4 Part 2 - Code
+
+Implement LLM semantic filter component
+Build FD verification/validation module
+Integrate all pipeline components
+Create evaluation metrics (noise reduction, FD loss)
